@@ -1,0 +1,90 @@
+[submodule "nim-chronos"]
+	path = nim-chronos
+	url = git@github.com:status-im/nim-chronos.git
+[submodule "nim-ssz-serialization"]
+	path = nim-ssz-serialization
+	url = git@github.com:status-im/nim-ssz-serialization.git
+[submodule "nim-presto"]
+	path = nim-presto
+	url = git@github.com:status-im/nim-presto.git
+[submodule "questionable"]
+	path = questionable
+	url = git@github.com:status-im/questionable.git
+[submodule "nim-datastore"]
+	path = nim-datastore
+	url = git@github.com:status-im/nim-datastore.git
+[submodule "nim-http-utils"]
+	path = nim-http-utils
+	url = git@github.com:status-im/nim-http-utils.git
+[submodule "nim-stew"]
+	path = nim-stew
+	url = git@github.com:status-im/nim-stew.git
+[submodule "nim-faststreams"]
+	path = nim-faststreams
+	url = git@github.com:status-im/nim-faststreams.git
+[submodule "nim-protobuf-serialization"]
+	path = nim-protobuf-serialization
+	url = git@github.com:status-im/nim-protobuf-serialization.git
+[submodule "nim-graphql"]
+	path = nim-graphql
+	url = git@github.com:status-im/nim-graphql.git
+[submodule "nim-testutils"]
+	path = nim-testutils
+	url = git@github.com:status-im/nim-testutils.git
+[submodule "nim-stint"]
+	path = nim-stint
+	url = git@github.com:status-im/nim-stint.git
+[submodule "nim-websock"]
+	path = nim-websock
+	url = git@github.com:status-im/nim-websock.git
+[submodule "nim-web3"]
+	path = nim-web3
+	url = git@github.com:status-im/nim-web3.git
+[submodule "asynctest"]
+	path = asynctest
+	url = git@github.com:status-im/asynctest.git
+[submodule "nim-taskpools"]
+	path = nim-taskpools
+	url = git@github.com:status-im/nim-taskpools.git
+[submodule "nim-json-serialization"]
+	path = nim-json-serialization
+	url = git@github.com:status-im/nim-json-serialization.git
+[submodule "nim-serialization"]
+	path = nim-serialization
+	url = git@github.com:status-im/nim-serialization.git
+[submodule "nim-confutils"]
+	path = nim-confutils
+	url = git@github.com:status-im/nim-confutils.git
+[submodule "nim-snappy"]
+	path = nim-snappy
+	url = git@github.com:status-im/nim-snappy.git
+[submodule "defuzze"]
+	path = defuzze
+	url = git@github.com:status-im/defuzze.git
+[submodule "nim-task-runner"]
+	path = nim-task-runner
+	url = git@github.com:status-im/nim-task-runner.git
+[submodule "nim-status"]
+	path = nim-status
+	url = git@github.com:status-im/nim-status.git
+[submodule "nim-cookbook"]
+	path = nim-cookbook
+	url = git@github.com:status-im/nim-cookbook.git
+[submodule "nim-ranges"]
+	path = nim-ranges
+	url = git@github.com:status-im/nim-ranges.git
+[submodule "nim-byteutils"]
+	path = nim-byteutils
+	url = git@github.com:status-im/nim-byteutils.git
+[submodule "nim-daemon"]
+	path = nim-daemon
+	url = git@github.com:status-im/nim-daemon.git
+[submodule "integer256"]
+	path = integer256
+	url = git@github.com:status-im/integer256.git
+[submodule "nim-codex"]
+	path = nim-codex
+	url = git@github.com:status-im/nim-codex.git
+[submodule "nim-toml-serialization"]
+	path = nim-toml-serialization
+	url = git@github.com:status-im/nim-toml-serialization.git
